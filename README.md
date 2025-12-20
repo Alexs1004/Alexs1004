@@ -59,12 +59,12 @@ Driven by a passion for securing Cloud infrastructures and automation, I bridge 
 * **Infrastructure & DevOps:** Terraform IaC with encrypted Azure backend, Azure Key Vault secrets rotation, and 91% test coverage via GitHub Actions.
 * **Stack:** Python (Flask), Terraform, Azure Key Vault, Trivy, Gitleaks.
 
-#### [Kubernetes GitOps Infrastructure](https://github.com/Alexs1004/kubernetes-gitops-infrastructure)
+#### [Kubernetes GitOps Infrastructure](https://github.com/Ecole42AS/kubernetes-gitops-infrastructure)
 *Cluster orchestration and automated continuous delivery.*
 * **Focus:** Multi-node K3s cluster deployment (Server/Worker) using **Vagrant**.
 * **GitOps:** Fully automated CD pipeline with **Argo CD** managing application versioning (v1/v2) on **K3d**.
 
-#### [Ansible Cloud Deployment](https://github.com/Alexs1004/ansible-cloud-deployment-orchestration)
+#### [Ansible Cloud Deployment](https://github.com/Ecole42AS/ansible-cloud-deployment-orchestration)
 *Automated secure infrastructure deployment on remote Cloud instances.*
 * **Focus:** Automated provisioning of Ubuntu Cloud instances using **Ansible**.
 * **Security:** Process isolation (1 process per container), server hardening, and mandatory TLS encryption.
